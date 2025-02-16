@@ -20,9 +20,6 @@
 - **Cloud & Deployment:** Docker, AWS Bedrock, FastAPI
 - **Other Tools:** Tableau, MS Excel, Power BI, Selenium, Web Scraping
 
-### 📈 GitHub Stats
-- **Contributions:** 77 in the last year
-
 ### 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/garv-bhatia/)
 - 📧 Email: garvbhatia04@.com
